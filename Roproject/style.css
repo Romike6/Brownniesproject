@@ -1,0 +1,39 @@
+body{
+    
+h1{
+  color:blue;
+   font-size: 30px;
+   font-family:sans-serif;
+   font-style: italic;
+}
+
+h2{
+    color: rgb(0, 191, 255);
+    font-size: 20px;
+}
+
+h3{
+    color: rgb(0, 132, 255);
+    font-size: small;
+}
+
+h4{
+    color: rgb(255, 0, 0) ;
+    font-size: medium;
+}
+aside{
+    background-color: rgb(156, 226, 43);
+    border: 5px; color: rgb(42, 114, 165);
+    border: solid; color: rgb(255, 0, 0);
+}
+article{
+    background-color: rgb(145, 255, 0);
+    border: 5px ; color: rgb(165, 89, 42);
+    border: 2px solid;
+}
+footer  {
+        background-color: rgb(165, 130, 42);
+        border: 5px ; color: rgb(0, 229, 255);
+        border: 2px solid;
+}
+}
